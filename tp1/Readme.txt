@@ -6,12 +6,11 @@ Binome: Marouane Abakarim
 ### TP1 - Développement API Rest serveur FTP en java.
 ### Formation M1 - E-service Lille 1.
 
-Veuillez trouvez ci-joint le Rapport nommé par "Rapport_car.docx".
+Veuillez trouvez ci-joint la documentation compléte de ce projet nommé par "Rapport_car.docx".
 
-
-La conception de notre sereveur est fait par IDE netbean, notre serbveur FTP fait l'écoute par défaut sur le port :1069.
+Ce servuer FTP fait l'écoute par défaut sur le port :1069.
 
 La configuration du port se fait dans le package Admin.
 
-Une authentification est obligation pour accéder au services exposer par notre application:
+Une authentification est obligation pour accéder au services exposer par notre application via le protocole HTTP:
 Les commandes en input :	QUIT,LS,PUT,RETR,STOR,CWD,PWD,RENAME,MKDIR,RMDIR,
