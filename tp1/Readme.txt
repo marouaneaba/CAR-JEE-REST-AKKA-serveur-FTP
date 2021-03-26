@@ -6,7 +6,7 @@ Binome: Marouane Abakarim
 ### TP1 - Développement API Rest serveur FTP en java.
 ### Formation M1 - E-service Lille 1.
 
-Veuillez trouvez ci-joint la documentation compléte de ce projet nommé par "Rapport_car.docx".
+Veuillez trouvez ci-joint la documentation compléte du projet nommé par "Rapport_car.docx".
 
 Ce servuer FTP fait l'écoute par défaut sur le port :1069.
 
