@@ -1,18 +1,17 @@
 
 
 Binome: Marouane Abakarim
-		Mohamed Adansar
+	Mohamed Adansar
  
+### TP1 - DÃ©veloppement API Rest serveur FTP en java.
+### Formation M1 - E-service Lille 1.
 
- veuillez trouver le Rapport en piece-joint "Rapport_car.docx".
+Veuillez trouveZ ci-joint le Rapport nommÃ© par "Rapport_car.docx".
 
 
-la conception de notre sereveur et fait par le logiciel netbean écout par défaut sur le port 1069.
+La conception de notre sereveur est fait par IDE netbean, notre serbveur FTP fait l'Ã©coute par dÃ©faut sur le port :1069.
 
-por configurer le repertoire de serveur aussi le numero de port on le configurer dans la class difinition de package Admin.
+La configuration du port se fait dans le package Admin.
 
-aprés que le client a réussi de s'authentifié ( une vérification et fait par l'appel de la class UserClass de packege Admin )
-le client peux exécuter plusieur commandes :	QUIT,LS,PUT,RETR,STOR,CWD,PWD,RENAME,MKDIR,RMDIR,
-
-	
-Un Résumer de tout on a fait sur le Document "Rapport_car.docx".
+Une authentification est obligation pour accÃ©der au services exposer par notre application:
+Les commandes en input :	QUIT,LS,PUT,RETR,STOR,CWD,PWD,RENAME,MKDIR,RMDIR,
